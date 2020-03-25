@@ -1,8 +1,7 @@
 /**
  * @file crypto_demo.cpp
  * @brief Comprehensive demonstration of the CryptoUtils library
- * @author Systems Programming Toolkit
- * @version 2.0
+ * @author Lukas Ernst
  * 
  * This comprehensive demo demonstrates all functions of the CryptoUtils library:
  * - MD5 Hashing (with RFC 1321 verification)
